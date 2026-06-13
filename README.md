@@ -97,7 +97,7 @@ Focus areas:
 ## 📫 Get in touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/louiseparker2) — best for professional connections
-- 📧 [lou@myownlittleplanet.co.uk](mailto:lou@myownlittleplanet.co.uk) — for coaching and mentoring enquiries
+- 📧 [work@difftales.com](mailto:work@difftales.com) — for coaching and mentoring enquiries
 - 🤝 Open to speaking opportunities, advisory roles, and mentoring engineers into leadership
 
 ---
